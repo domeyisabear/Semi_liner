@@ -1,0 +1,21 @@
+{
+  "timeLimit": 30000,
+  "threadNumPerSolver": 1,
+  "threadPoolSize": 7,
+  "iterationLimit": 0,
+  "data": [
+    {
+	  "calSolution": 1,
+      "multiCutForAppCase": 0
+      "cutPlane1": 1,
+	  "benders": 1,
+      "cutPlaneMulti0": 0,
+      "path": "./8_7_100/",
+      "extensive": 0,
+      "cutPlane0": 0,
+      "cutPlaneMulti1": 0,
+      "cutPlane1": 0
+    }
+  ],
+  "solutionCount": 5
+}
