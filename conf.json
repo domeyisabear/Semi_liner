@@ -5,10 +5,10 @@
   "iterationLimit": 0,
   "data": [
     {
-	  "calSolution": 1,
-      "multiCutForAppCase": 0
+      "calSolution": 1,
+      "multiCutForAppCase": 0,
       "cutPlane1": 1,
-	  "benders": 1,
+      "benders": 1,
       "cutPlaneMulti0": 0,
       "path": "./8_7_100/",
       "extensive": 0,
